@@ -10,9 +10,12 @@ Next line
 ## Nucleotide sequences (.fasta file)
 
 
-### Publication
+# Publication
 Manuscript in preparation. 
 
-notes:
-přidat odkaz na pepep
-licence je komplet free
+### Links
+[NCBI Taxoonmy](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=116851)
+
+[NCBI BioProject](https://www.ncbi.nlm.nih.gov/bioproject/?term=txid116851[Organism:noexp])
+
+[NCBI TSA database](https://www.ncbi.nlm.nih.gov/nuccore/GFYM00000000.1)
