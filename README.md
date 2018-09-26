@@ -1,11 +1,13 @@
 # *Eudiplozoon nipponicum* transcriptome project
-This is a test repository...
+
+![alt text](https://github.com/jirivorel/Eudiplozoon-nipponicum-transcriptomic-project/blob/master/doc/E_nip_SEM.jpg)
+###### *Eudiplozoon nipponicum*, author Iveta Hodova (Masaryk University, Brno), SEM, unpublished
 
 ## Nucleotide sequences
-37,062 nucleotide sequences [(FASTA)](../E_nip_transcriptome_nucl_final.zip)
+37,062 nucleotide sequences [(FASTA)](https://github.com/jirivorel/Eudiplozoon-nipponicum-transcriptomic-project/blob/master/E_nip_transcriptome_nucl_final.zip)
 
 ## Protein sequences
-37,062 protein sequences [(FASTA)](../E_nip_transcriptome_aa_final.zip)
+37,062 protein sequences [(FASTA)](https://github.com/jirivorel/Eudiplozoon-nipponicum-transcriptomic-project/blob/master/E_nip_transcriptome_aa_final.zip)
 
 # Publication
 Manuscript in preparation. 
