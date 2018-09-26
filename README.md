@@ -1,7 +1,11 @@
-# *Eudiplozoon nipponicum* transcriptome project
+# *Eudiplozoon nipponicum* transcriptome/secretome project
 
+GitHub repository for transcriptome and secretome project of *Eudiplozoon nipponicum* (Platyhelminthes, Monogenea).
+![alt text](https://github.com/jirivorel/Eudiplozoon-nipponicum-transcriptomic-project/blob/master/doc/logo.jpg)
 ![alt text](https://github.com/jirivorel/Eudiplozoon-nipponicum-transcriptomic-project/blob/master/doc/E_nip_SEM.jpg)
 ###### *Eudiplozoon nipponicum*, author Iveta Hodova (Masaryk University, Brno), SEM, unpublished
+
+
 
 ## Nucleotide sequences
 37,062 nucleotide sequences [(FASTA)](https://github.com/jirivorel/Eudiplozoon-nipponicum-transcriptomic-project/blob/master/E_nip_transcriptome_nucl_final.zip)
