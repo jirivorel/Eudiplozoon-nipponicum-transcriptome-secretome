@@ -4,7 +4,7 @@ GitHub repository for transcriptome and secretome project of *Eudiplozoon nippon
 
 ![alt text](https://github.com/jirivorel/Eudiplozoon-nipponicum-transcriptomic-project/blob/master/doc/Logo.jpg)
 
-![alt text](https://github.com/jirivorel/Eudiplozoon-nipponicum-transcriptomic-project/blob/master/doc/E_nip_SEM.jpg)
+![alt text](https://github.com/jirivorel/Eudiplozoon-nipponicum-transcriptomic-project/blob/master/doc/E_nip_sem.jpg)
 ###### *Eudiplozoon nipponicum*, author Iveta Hodová (Masaryk University, Brno), SEM, unpublished
 
 Text
