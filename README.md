@@ -18,7 +18,7 @@ Here you can find basic information and download sequences (as a fasta files) re
 ## Annotation   
 Coming soon
 
-# Key Publication
+## Key Publication
 Manuscript in preparation. 
 
 ## Related Publications
@@ -35,7 +35,7 @@ Jedličková *et al*., 2016, **Major acid endopeptidases of the blood-feeding mo
 
 [NCBI Taxononmy](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=116851)
 
-#### Contact
+## Contact
 **[Jiří Vorel](https://www.muni.cz/en/people/376321-jiri-vorel)**
 
 Masaryk University 
@@ -56,5 +56,5 @@ Brno 625 00, Czech Republic
 
 **Web:** [http://botzool.sci.muni.cz/en](http://botzool.sci.muni.cz/en)
 
-#### Licence
+## Licence
 Free. Use it for your research, share it with your colleagues and enjoy it without limitations. But cite the paper. 
