@@ -5,9 +5,9 @@ GitHub repository for transcriptome and secretome project of *Eudiplozoon nippon
 ![alt text](https://github.com/jirivorel/Eudiplozoon-nipponicum-transcriptomic-project/blob/master/doc/Logo.jpg)
 
 ![alt text](https://github.com/jirivorel/Eudiplozoon-nipponicum-transcriptomic-project/blob/master/doc/E_nip_sem.jpg)
-###### *Eudiplozoon nipponicum*, author Iveta Hodová (Masaryk University, Brno), SEM, unpublished
+###### *Eudiplozoon nipponicum* adult, author Iveta Hodová (Masaryk University, Brno), SEM, unpublished
 
-Text
+Here you can find basic information and download sequences (as a fasta files) related to transcriptome/secretome project of *Eudiplozoon nipponicum*. *E. nipponicum* is a blood-feeding, oviparous, ectoparasite inhabiting gills predominantly of common carp *Cyprinus carpio* with unique live cycle including the phase when two individual juvenile worms permanently fuse into one sexually immature juvenile stage and stay further together also after development into the stage of adult. *E. nipponicum* was introduced into Europe from Southeast Asia and started to negatively influenced carps´ populations, especially the semi-intensive carp farming in ponds.
 
 ## Nucleotide sequences
 37,062 nucleotide sequences [(FASTA)](https://github.com/jirivorel/Eudiplozoon-nipponicum-transcriptomic-project/blob/master/E_nip_transcriptome_nucl_final.zip)
@@ -35,5 +35,18 @@ Jedličková *et al*., 2016, **Major acid endopeptidases of the blood-feeding mo
 
 [NCBI Taxononmy](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=116851)
 
+#### Contact
+**[Jiří Vorel](https://www.muni.cz/en/people/376321-jiri-vorel)**
+Masaryk University 
+Faculty of Science
+Department of Botany and Zoology
+Parasitology Research Group
+University Campus Bohunice
+Kamenice 753/5, (A31/328)
+Brno 625 00, Czech Republic
+
+**Email:** [vorel@mail.muni.cz](mailto:vorel@mail.muni.cz)
+**Web:** [http://botzool.sci.muni.cz/en](http://botzool.sci.muni.cz/en)
+
 #### Licence
-Free. Use it, share it, enjoy it without limitations, but cite the paper. 
+Free. Use it for your research, share it with your colleagues and enjoy it without limitations. But cite the paper. 
