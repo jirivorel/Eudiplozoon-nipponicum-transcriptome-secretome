@@ -44,7 +44,7 @@ Jedličková *et al*., 2016, **Major acid endopeptidases of the blood-feeding mo
 [ECIP Project](http://ecip.cz/about-ecip)
 
 ## Contact
-**[Jiří Vorel](https://www.muni.cz/en/people/376321-jiri-vorel)**<br />
+**[Jiří Vorel](https://is.muni.cz/person/vorel?lang=en)**<br />
 Masaryk University<br /> 
 Faculty of Science<br />
 Department of Botany and Zoology<br />
