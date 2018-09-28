@@ -7,7 +7,7 @@ GitHub repository for transcriptome and secretome project of *Eudiplozoon nippon
 ![alt text](https://github.com/jirivorel/Eudiplozoon-nipponicum-transcriptomic-project/blob/master/doc/E_nip_sem.jpg)
 ###### *Eudiplozoon nipponicum* adult, author Iveta Hodová (Masaryk University, Brno), SEM, unpublished
 
-Here you can find basic information and sequences (as a fasta file) related to the transcriptome/secretome project of *Eudiplozoon nipponicum*. *E. nipponicum* is a blood-feeding, oviparous, ectoparasite inhabiting gills predominantly of common carp *Cyprinus carpio* with unique live cycle including the phase when two individual juvenile worms permanently fuse into one sexually immature juvenile stage and stay further together also after development into the stage of adult. *E. nipponicum* was introduced into Europe from Southeast Asia and started to negatively influenced carps´ populations, especially the semi-intensive carp farming in ponds.
+Here we present basic information and sequences (fasta files) related to the transcriptome/secretome project of *Eudiplozoon nipponicum*. *E. nipponicum* is a blood-feeding, oviparous, ectoparasite inhabiting gills predominantly of common carp *Cyprinus carpio* with unique live cycle including the phase when two individual juvenile worms permanently fuse into one sexually immature juvenile stage and stay further together also after development into the stage of adult. *E. nipponicum* was introduced into Europe from Southeast Asia and started to negatively influenced carps´ populations, especially the semi-intensive carp farming in ponds.
 
 ## Nucleotide sequences
 37,062 nucleotide sequences [(FASTA)](https://github.com/jirivorel/Eudiplozoon-nipponicum-transcriptomic-project/blob/master/E_nip_transcriptome_nucl_final.zip)
@@ -35,6 +35,12 @@ Jedličková *et al*., 2016, **Major acid endopeptidases of the blood-feeding mo
 
 [NCBI Taxononmy](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=116851)
 
+[Department of Botany and Zoology](http://botzool.sci.muni.cz/en)
+
+[Parasitology Research Group](http://www.sci.muni.cz/zoolecol/parasit/index.php)
+
+[ECIP Project](http://ecip.cz/about-ecip)
+
 ## Contact
 **[Jiří Vorel](https://www.muni.cz/en/people/376321-jiri-vorel)**<br />
 Masaryk University<br /> 
@@ -42,10 +48,10 @@ Faculty of Science<br />
 Department of Botany and Zoology<br />
 Parasitology Research Group<br />
 University Campus Bohunice<br />
-Kamenice 753/5, (A31/328)<br />
+Kamenice 753/5<br />
 Brno 625 00, Czech Republic<br />
 **Email:** [vorel@mail.muni.cz](mailto:vorel@mail.muni.cz)<br />
 **Web:** [http://botzool.sci.muni.cz/en](http://botzool.sci.muni.cz/en)
 
 ## Licence
-Free. Use it for your research, share it with your colleagues and enjoy it without limitations. But cite the paper. 
+Free. Use it for your research, share it with your colleagues and enjoy it without limitations. But cite the key publication. 
