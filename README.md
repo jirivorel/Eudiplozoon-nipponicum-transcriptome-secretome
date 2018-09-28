@@ -37,15 +37,23 @@ Jedličková *et al*., 2016, **Major acid endopeptidases of the blood-feeding mo
 
 #### Contact
 **[Jiří Vorel](https://www.muni.cz/en/people/376321-jiri-vorel)**
+
 Masaryk University 
+
 Faculty of Science
+
 Department of Botany and Zoology
+
 Parasitology Research Group
+
 University Campus Bohunice
+
 Kamenice 753/5, (A31/328)
+
 Brno 625 00, Czech Republic
 
 **Email:** [vorel@mail.muni.cz](mailto:vorel@mail.muni.cz)
+
 **Web:** [http://botzool.sci.muni.cz/en](http://botzool.sci.muni.cz/en)
 
 #### Licence
