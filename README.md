@@ -22,6 +22,8 @@ Coming soon
 Manuscript in preparation. 
 
 ## Related Publications
+Roudnický *et al*., 2018, **Identification and partial characterization of a novel serpin from *Eudiplozoon nipponicum* (Monogenea, Polyopisthocotylea).** doi [10.1051/parasite/2018062](https://www.parasite-journal.org/articles/parasite/full_html/2018/01/parasite180126/parasite180126.html)  
+
 Jedličková *et al*., 2018, **Cysteine peptidases of *Eudiplozoon nipponicum*: a broad repertoire of structurally assorted cathepsins L in contrast to the scarcity of cathepsins B in an invasive species of haematophagous monogenean of common carp.** doi [10.1186/s13071-018-2666-2](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-018-2666-2)  
 
 Ilgová *et al*., 2017, **A novel type I cystatin of parasite origin with atypical legumainbinding domain.** doi [10.1038/s41598-017-17598-2](https://www.nature.com/articles/s41598-017-17598-2)
