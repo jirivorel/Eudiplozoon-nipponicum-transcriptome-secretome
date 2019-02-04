@@ -2,8 +2,6 @@
 
 GitHub repository for transcriptome and secretome project of *Eudiplozoon nipponicum* (Platyhelminthes, Monogenea).
 
-![alt text](https://github.com/jirivorel/Eudiplozoon-nipponicum-transcriptomic-project/blob/master/doc/Logo.jpg)
-
 ![alt text](https://github.com/jirivorel/Eudiplozoon-nipponicum-transcriptomic-project/blob/master/doc/E_nip_sem.jpg)
 ###### *Eudiplozoon nipponicum* adult, author Iveta Hodová (Masaryk University, Brno), SEM, unpublished
 
