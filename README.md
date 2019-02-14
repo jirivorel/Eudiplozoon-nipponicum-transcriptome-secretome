@@ -39,8 +39,6 @@ Jedličková *et al*., 2016, **Major acid endopeptidases of the blood-feeding mo
 
 [Queen's University Belfast, School of Biological Sciences](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)
 
-[Parasitology Research Group](http://www.sci.muni.cz/zoolecol/parasit/index.php)
-
 [ECIP Project](http://ecip.cz/about-ecip)
 
 ## Contact
@@ -55,4 +53,4 @@ Brno 625 00, Czech Republic<br />
 **Email:** [vorel@mail.muni.cz](mailto:vorel@mail.muni.cz)
 
 ## Licence
-Free. Use it for your research, share it with your colleagues and enjoy it without limitations. But cite the key publication. 
+Free. Use it for your research, share it with your colleagues and enjoy it without limitations ;-) But cite the key publication. 
