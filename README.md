@@ -20,6 +20,8 @@ Coming soon
 Manuscript in preparation. 
 
 ## Related Publications
+Jedličková *et al*., 2019, **A novel Kunitz protein with proposed dual function from *Eudiplozoon nipponicum* (Monogenea) impairs haemostasis and action of complement in vitro.** doi [10.1016/j.ijpara.2018.11.010](https://www.sciencedirect.com/science/article/pii/S0020751919300268) 
+
 Roudnický *et al*., 2018, **Identification and partial characterization of a novel serpin from *Eudiplozoon nipponicum* (Monogenea, Polyopisthocotylea).** doi [10.1051/parasite/2018062](https://www.parasite-journal.org/articles/parasite/full_html/2018/01/parasite180126/parasite180126.html)  
 
 Jedličková *et al*., 2018, **Cysteine peptidases of *Eudiplozoon nipponicum*: a broad repertoire of structurally assorted cathepsins L in contrast to the scarcity of cathepsins B in an invasive species of haematophagous monogenean of common carp.** doi [10.1186/s13071-018-2666-2](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-018-2666-2)  
