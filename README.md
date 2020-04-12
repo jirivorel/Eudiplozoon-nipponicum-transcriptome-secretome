@@ -20,6 +20,8 @@ Coming soon
 Manuscript in preparation. 
 
 ## Related Publications
+Ilgová *et al*., 2020, **Effect of cysteine peptidase inhibitor of *Eudiplozoon nipponicum* (Monogenea) on cytokine expression of macrophages *in vitro*.** doi [10.1016/j.molbiopara.2019.111248](https://www.sciencedirect.com/science/article/pii/S016668511930163X?via%3Dihub)
+
 Jedličková *et al*., 2019, **A novel Kunitz protein with proposed dual function from *Eudiplozoon nipponicum* (Monogenea) impairs haemostasis and action of complement in vitro.** doi [10.1016/j.ijpara.2018.11.010](https://www.sciencedirect.com/science/article/pii/S0020751919300268) 
 
 Roudnický *et al*., 2018, **Identification and partial characterization of a novel serpin from *Eudiplozoon nipponicum* (Monogenea, Polyopisthocotylea).** doi [10.1051/parasite/2018062](https://www.parasite-journal.org/articles/parasite/full_html/2018/01/parasite180126/parasite180126.html)  
