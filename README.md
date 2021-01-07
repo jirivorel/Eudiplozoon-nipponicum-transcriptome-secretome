@@ -17,7 +17,7 @@ Here we present basic information and sequences (fasta files) related to the tra
 Coming soon
 
 ## Key Publication
-Manuscript in preparation. 
+Manuscript under review. 
 
 ## Related Publications
 Roudnický *et al*., 2020, **Laser microdissection and mass spectrometry: protein analysis of strictly selected tissue from *Eudiplozoon nipponicum*.** doi [10.1371/journal.pone.0231681](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0231681)
