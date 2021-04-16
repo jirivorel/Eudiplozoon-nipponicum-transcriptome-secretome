@@ -13,11 +13,8 @@ Here we present basic information and sequences (fasta files) related to the tra
 ## Protein sequences
 37,062 protein sequences [(FASTA)](https://github.com/jirivorel/Eudiplozoon-nipponicum-transcriptomic-project/blob/master/E_nip_transcriptome_aa_final.zip)
 
-## Annotation   
-Coming soon
-
 ## Key Publication
-Manuscript under review. 
+Vorel *et al*., 2021, ***Eudiplozoon nipponicum* (Monogenea, Diplozoidae) and its adaptation to haematophagy as revealed by transcriptome and secretome profiling.** doi [10.1186/s12864-021-07589-z](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07589-z)
 
 ## Related Publications
 Roudnický *et al*., 2020, **Laser microdissection and mass spectrometry: protein analysis of strictly selected tissue from *Eudiplozoon nipponicum*.** doi [10.1371/journal.pone.0231681](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0231681)
