@@ -51,5 +51,5 @@ Kamenice 753/5<br />
 Brno 625 00, Czech Republic<br />
 **Email:** [vorel@mail.muni.cz](mailto:vorel@mail.muni.cz)
 
-## Licence
-Free. Use it for your research, share it with your colleagues and enjoy it without limitations ;-) But cite the key publication. 
+## Final note
+Use it for your research, share it with your colleagues and enjoy it without limitations ;-) But cite the key publication. 
