@@ -17,7 +17,7 @@ Here we present basic information and sequences (fasta files) related to the tra
 Vorel *et al*., 2021, ***Eudiplozoon nipponicum* (Monogenea, Diplozoidae) and its adaptation to haematophagy as revealed by transcriptome and secretome profiling.** doi [10.1186/s12864-021-07589-z](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07589-z)
 
 ## Related Publications
-Roudnický *et al*., 2020, **Laser microdissection and mass spectrometry: protein analysis of strictly selected tissue from *Eudiplozoon nipponicum*.** doi [10.1371/journal.pone.0231681](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0231681)
+Roudnický *et al*., 2020, **Laser microdissection and mass spectrometry: protein analysis of strictly selected tissue from *Eudiplozoon nipponicum*.** doi [10.1371/journal.pone.0231681](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231681)
 
 Ilgová *et al*., 2020, **Effect of cysteine peptidase inhibitor of *Eudiplozoon nipponicum* (Monogenea) on cytokine expression of macrophages *in vitro*.** doi [10.1016/j.molbiopara.2019.111248](https://www.sciencedirect.com/science/article/pii/S016668511930163X?via%3Dihub)
 
