@@ -17,6 +17,8 @@ Here we present basic information and sequences (fasta files) related to the tra
 Vorel *et al*., 2021, ***Eudiplozoon nipponicum* (Monogenea, Diplozoidae) and its adaptation to haematophagy as revealed by transcriptome and secretome profiling.** doi [10.1186/s12864-021-07589-z](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07589-z)
 
 ## Related Publications
+Vorel *et al*., 2023, **An insight into the functional genomics and species classification of *Eudiplozoon nipponicum* (Monogenea, Diplozoidae), a haematophagous parasite of the common carp *Cyprinus carpio*.** doi [10.1186/s12864-023-09461-8](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-023-09461-8)
+
 Roudnický *et al*., 2020, **Laser capture microdissection in combination with mass spectrometry: Approach to characterization of tissue-specific proteomes of *Eudiplozoon nipponicum* (Monogenea, Polyopisthocotylea).** doi [10.1371/journal.pone.0231681](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231681)
 
 Ilgová *et al*., 2020, **Effect of cysteine peptidase inhibitor of *Eudiplozoon nipponicum* (Monogenea) on cytokine expression of macrophages *in vitro*.** doi [10.1016/j.molbiopara.2019.111248](https://www.sciencedirect.com/science/article/pii/S016668511930163X?via%3Dihub)
